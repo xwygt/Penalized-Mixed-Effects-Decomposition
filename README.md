@@ -50,8 +50,6 @@ H. Milton Stewart School of Industrial and Systems Engineering
 765 Ferst Drive, Groseclose Building, Room 109
 Georgia Institute of Technology
 Atlanta, Georgia 30332-0205
-jianjun.shi@isye.gatech.edu 
-Phone:  404-385-3488, Fax:  404 894 2301
 http://www2.isye.gatech.edu/~jshi33
 
 Xiaowei Yue
@@ -59,5 +57,4 @@ PhD Candidate
 H. Milton Stewart School of Industrial and Systems Engineering
 Georgia Institute of Technology
 755 Ferst Drive, Atlanta, Georgia 30332-0205 USA 	
-Email: xwy@gatech.edu
 https://sites.google.com/view/xiaowei-yue
