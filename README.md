@@ -42,7 +42,7 @@ Our code is released under MIT License (see LICENSE file for details).
 The Fig. 3-8, 10-12, Tables I can be reproduced by the code and datasets.
 
 
-CONTACT INFORMATION 
+## Contact Information
 
 Jianjun (Jan) Shi
 The Carolyn J. Stewart Chair and Professor
