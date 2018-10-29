@@ -53,8 +53,8 @@ Atlanta, Georgia 30332-0205
 http://www2.isye.gatech.edu/~jshi33
 
 Xiaowei Yue
-PhD Candidate 
-H. Milton Stewart School of Industrial and Systems Engineering
-Georgia Institute of Technology
-755 Ferst Drive, Atlanta, Georgia 30332-0205 USA 	
-https://sites.google.com/view/xiaowei-yue
+Assistant Professor 
+Grado Department of Industrial and Systems Engineering
+Virginia Tech
+113 Durham Hall (MC 0118), 1145 Perry Street, Blacksburg, VA, 24061 USA 	
+https://ise.vt.edu/yue.html
